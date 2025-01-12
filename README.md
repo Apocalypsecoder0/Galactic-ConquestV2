@@ -62,9 +62,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Apocalypsecoder0/[game-mmorpg.git](https://github.com/Apocalypsecoder0/Test-mmorpg-Apocalyptic-Online
-cd tgame-mmorpg](https://github.com/Apocalypsecoder0/Testwebgame/edit/main/README.md)
-Set up the database:
+git clone https: https://github.com/Apocalypsecoder0/Galactic-ConquestV2
 
 Create a new MySQL database:
 CREATE DATABASE ogame;
@@ -82,7 +80,7 @@ Start the web server:
 Ensure your web server is configured to serve the project directory.
 Access the game:
 
-Open your web browser and navigate to http://localhost/Test-mmorpg-Apocalyptic-Online/.
+Open your web browser and navigate to http://localhost/Test-mmorpg
 Project Structure
 
 Classes
