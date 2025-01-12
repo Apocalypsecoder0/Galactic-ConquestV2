@@ -28,7 +28,7 @@ License
 This game is free to play. Please refer to our website for the full terms of service and privacy policy.
 May the stars guide your journey!
 
-photo:
+photo: image
 
 # Test-mmorpg
 TestWebGame Online Server
